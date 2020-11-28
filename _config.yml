@@ -10,10 +10,10 @@ baseurl: ''
 author:
   name: 'Chase Marsh'
   email: cmarsh@gebcservices.com
-  twitter_username: na
-  facebook_username: na
+  twitter_username: 
+  facebook_username: 
   github_username:  ChaseMarsh
-  linkedin_username:  chasemarsh
+  linkedin_username:  chase-marsh-7b6235bb
 
 defaults:
   -
